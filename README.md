@@ -137,6 +137,7 @@ Power BI – sviluppo dashboard
 
 DAX – costruzione indicatori e KPI
 
+Data modeling – gestione relazioni tra dataset.
+
 Autrice: Martina Riccio- Data Analyst
 
-Data modeling – gestione relazioni tra dataset.
